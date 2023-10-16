@@ -1,19 +1,22 @@
-### Fala galera 👋
+### Olá, eu sou Venilton FalvoJr (falvojr) 👋
 
-**Venilton FalvoJr (falvojr)** é ✨ _Tech Lead_ ✨ na DIO e um apaixonado por tecnologia e educação!
+✨ **Tech Lead** na [DIO](https://digitalinnovation.one/) e entusiasta de tecnologia e educação.
 
-- 🔭 Atualmente sou Tech Lead no time de Educação da DIO
-- 🌱 Doutorando em Engenharia de Software no ICMC-USP
-- 💬 Pode me perguntar sobre Java, Kotlin e qualquer coisa legal sobre desenvolvimento Mobile para Android!
+🏢 **Atuação Profissional**
+- 🚀 Tech Lead no time de Educação da DIO
+- 🎓 Doutorando em Engenharia de Software no [ICMC-USP](https://www.icmc.usp.br/)
 
-### Minhas Estatísticas Públicas
+📱 **Especialidades**
+- 📚 Pergunte-me sobre Java, Kotlin e desenvolvimento Mobile para Android!
+
+### 📊 Estatísticas no GitHub
 
 ![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dracula)
 
-### Principais Projetos
+### 📌 Projetos em Destaque
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)](https://github.com/falvojr/santander-dev-week-2023)
 
-### Minhas Linguagens 🤩
+### 🚀 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact)
