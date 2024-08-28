@@ -15,7 +15,7 @@
 
 ### 📌 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)](https://github.com/falvojr/santander-dev-week-2023)
+TODO: Incluir projetos legais!
 
 ### 🚀 Linguagens Mais Usadas
 
