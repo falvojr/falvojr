@@ -15,7 +15,7 @@
 
 ### 📌 Projetos em Destaque
 
-TODO: Incluir projetos legais!
+TODO: Incluir projetos legais pra galera do Campus Expert!
 
 ### 🚀 Linguagens Mais Usadas
 
