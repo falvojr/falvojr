@@ -15,10 +15,7 @@
 
 ### 📌 Projetos em Destaque
 
-- [Projeto Interessante 1]()
-- [Projeto Interessante 2]()
-- [Projeto Interessante 3]()
-- [Projeto Interessante N]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=phd-thesis&theme=dark)](https://github.com/falvojr/phd-thesis)
 
 ### 🚀 Linguagens Mais Usadas
 
