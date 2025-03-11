@@ -15,7 +15,10 @@
 
 ### 📌 Projetos em Destaque
 
-TODO: Incluir projetos legais pra galera do Campus Expert!
+- [Projeto Interessante 1]()
+- [Projeto Interessante 2]()
+- [Projeto Interessante 3]()
+- [Projeto Interessante N]()
 
 ### 🚀 Linguagens Mais Usadas
 
