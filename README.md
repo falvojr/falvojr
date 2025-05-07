@@ -1,30 +1,34 @@
-# Olá, eu sou Venilton FalvoJr (falvojr) 👋
+# Olá! Eu sou o Venilton Falvo Jr. (falvojr) 👋
 
-✨ **Tech Lead** na [DIO](https://digitalinnovation.one/) | Entusiasta de **Tecnologia**, **Educação** e **Inteligência Artificial Generativa**
+✨ **Tech Lead** na [DIO](https://digitalinnovation.one/) | Apaixonado por **Tecnologia**, **Educação** e **IA Generativa**
 
-Sou apaixonado por inovação tecnológica e por ensinar, compartilhando conhecimento em desenvolvimento mobile e IA com a comunidade. 💡
+Sou entusiasta da inovação tecnológica e da educação, com dedicação especial ao ensino e à comunidade de desenvolvedores. Compartilho experiências em desenvolvimento mobile, arquitetura de software e aplicações de IA que impactam positivamente milhares de pessoas. 💡
 
-## 🏢 **Atuação Profissional**
-- 🚀 **Tech Lead** no time de **Educação** da DIO, liderando projetos de impacto na área de **formação de desenvolvedores**.
-- 🎓 **Doutorando em Engenharia de Software** no [ICMC-USP](https://www.icmc.usp.br/), onde aprofundo meus estudos sobre desenvolvimento mobile e tecnologias emergentes.
+## 🏢 Atuação Profissional
 
-## 📱 **Especialidades**
-- Desenvolvedor **Mobile Android**, com sólida experiência em **Java** e **Kotlin**.
-- Entusiasta de **Inteligência Artificial Generativa**, explorando como tecnologias de IA podem transformar a maneira como desenvolvemos e interagimos com softwares.
-- Experiência com **arquitetura de software**, **boas práticas de desenvolvimento** e **performance em aplicativos Android**.
+- 🚀 **Tech Lead** no time de **Educação** da [DIO](https://digitalinnovation.one/), liderando projetos estratégicos focados na formação de desenvolvedores.
+- 🎓 **Doutor em Engenharia de Software** pelo [ICMC-USP](https://www.icmc.usp.br/), com tese centrada no uso de IA para **Reconhecimento Automático de Fala** e **acessibilidade em videoaulas**.
 
-## 🚀 **O que me motiva:**
-- Criar soluções tecnológicas inovadoras para impactar a vida de milhares de pessoas.
-- Estudar e aplicar **Inteligência Artificial** em projetos de desenvolvimento mobile para gerar mais eficiência e criatividade.
 
-## 📊 **Estatísticas no GitHub**
+## 📱 Especialidades
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dark)
+- Desenvolvimento **Mobile Android**, com ampla experiência em **Java** e **Kotlin**.
+- Arquitetura de software e boas práticas para **aplicativos performáticos e escaláveis**.
+- Exploração de **IA Generativa** aplicada a soluções educacionais e automações criativas.
 
-## 📌 **Projetos em Destaque**
+## 🚀 O que me motiva
+
+- Transformar ideias em soluções tecnológicas que impactam vidas.
+- Integrar **Inteligência Artificial** a experiências mobile para ampliar **eficiência, inclusão e criatividade**.
+
+## 📌 Projetos em Destaque
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=phd-thesis&theme=dark)](https://github.com/falvojr/phd-thesis)
 
-## 🚀 **Linguagens Mais Usadas**
+## 📊 GitHub Stats
+
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dark)
+
+## 🧠 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact&theme=dark)
