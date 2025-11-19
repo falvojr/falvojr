@@ -18,13 +18,9 @@ Atuo como líder educacional na DIO, promovendo a integração de **Inteligênci
 ---
 
 ## 🛠️ Principais Competências
-- **Linguagens:** Java, Python, Kotlin, HTML5, CSS3, JavaScript  
+- **Linguagens:** Java, Kotlin, Python, HTML5, CSS3, JavaScript  
 - **Plataformas:** Android, .NET, AWS, Cloud Computing  
 - **Áreas de atuação:** Arquitetura de Software, Educação Tech, IA aplicada, Backend Financeiro  
-
-## 📌 Projetos em Destaque
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=dio-carreiras-futuro&theme=radical)](https://github.com/falvojr/dio-carreiras-futuro)
 
 ---
 
